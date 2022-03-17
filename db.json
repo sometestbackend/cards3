@@ -1,0 +1,37 @@
+{
+  "cards": [
+    { 
+      "id": 1, 
+      "title": "Финастерид",
+      "desc": "Лысая башка - дай пирожка", 
+      "new": false, 
+      "promo": true, 
+      "bestseller": false, 
+      "preview": "https://www.mic.by/upload/iblock/c47/finasterid.png", 
+      "type": "Крем", 
+      "createdBy": "Bayer"
+    },
+    { 
+      "id": 2, 
+      "title": "Аскорбат натрия",
+      "desc": "Понятия не имею, что это", 
+      "new": true, 
+      "promo": false, 
+      "bestseller": false, 
+      "preview": "https://cdn.eapteka.ru/upload/offer_photo/354/13/1.jpg?t=1485660849&_cvc=1646921436", 
+      "type": "Капсулы", 
+      "createdBy": "Pfizer"
+    },
+    { 
+      "id": 3, 
+      "title": "Ревалор",
+      "desc": "Тренчика не хотите?", 
+      "new": false, 
+      "promo": true, 
+      "bestseller": true, 
+      "preview": "https://www.merck-animal-health-usa.com/wp-content/uploads/sites/54/2020/12/revalor-200-logo.png", 
+      "type": "Порошок", 
+      "createdBy": "Navali"
+    }
+  ]
+}
